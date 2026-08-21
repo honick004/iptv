@@ -19,6 +19,23 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08#.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyomx2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-093-400x400.png",Tokyo MX2
 https://akariko−bck1.sankuria.sbs/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
 
+#EXTINF:-1 group-title="Kansai" tvg-id="gx06" tvg-name="NHK G Osaka" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_osaka.png",NHK G Osaka
+http://58.82.168.138:5002/gx06.m3u8?token=guoziyun&gid=gx06&channel=zhongying
+#EXTINF:-1 group-title="Kansai" tvg-id="gx01" tvg-name="MBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mbs.png",MBS
+http://58.82.168.138:5002/gx01.m3u8?token=guoziyun&gid=gx01&channel=zhongying
+#EXTINF:-1 group-title="Kansai" tvg-id="gx02" tvg-name="ABC" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/abc.png",ABC
+http://58.82.168.138:5002/gx02.m3u8?token=guoziyun&gid=gx02&channel=zhongying
+#EXTINF:-1 group-title="Kansai" tvg-id="gx03" tvg-name="Kansai TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kansai_tv.png",Kansai TV
+http://58.82.168.138:5002/gx03.m3u8?token=guoziyun&gid=gx03&channel=zhongying
+#EXTINF:-1 group-title="Kansai" tvg-id="gx04" tvg-name="ytv" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ytv.png",ytv
+http://58.82.168.138:5002/gx04.m3u8?token=guoziyun&gid=gx04&channel=zhongying
+#EXTINF:-1 group-title="Kansai" tvg-id="gx05" tvg-name="TV Osaka" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_osaka.png",TV Osaka
+http://58.82.168.138:5002/gx05.m3u8?token=guoziyun&gid=gx05&channel=zhongying
+#EXTINF:-1 group-title="Kansai" tvg-id="gx07" tvg-name="SUN" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sun.png",SUN
+http://58.82.168.138:5002/gx07.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+#EXTINF:-1 group-title="Kansai" tvg-id="jp16" tvg-name="KBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs.png",KBS
+http://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls
+
 #EXTINF:-1 group-title="BS" tvg-id="nhkbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",NHK BS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bsnippontv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",BS NTV
