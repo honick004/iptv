@@ -407,21 +407,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnowr
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_85" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/232_enka.png",演歌・歌謡
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-enka-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_98" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/239_sexyenterme.png",セクシーエンタメチャンネル
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_59" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png",おとなの歓楽街 by MEN’S NECO
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_41" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png",アイドル・グラビア
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_40" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png",刺激ストロング
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_42" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png",映画（年齢制限あり）
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
-
 ## BBM V-FAST-CH
 #EXTINF:-1 group-title="BBM V-FAST" tvg-id="fastch_v2_17live" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/17live/channel_logo",Free TV NEWS Powered by 17LIVE
 https://livetv.fastv.jp/channel_assembly/699989FA00007532CED8/master.m3u8
